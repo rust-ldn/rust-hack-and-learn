@@ -2,7 +2,7 @@
 name: Project proposal
 about: Look for teammates to work with you on a new project proposal
 title: "[Project proposal] <Name of the project>"
-labels: project
+labels: project, open
 assignees: ''
 
 ---
