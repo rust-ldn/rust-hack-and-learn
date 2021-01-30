@@ -23,7 +23,7 @@ To make it easier for people to find partners to work with (or to join projects 
 **Ahead of the date, we will use the repository to organize groups for the event.**
 
 If you have an idea for a project, [open an issue](https://github.com/LukeMathWalker/rust-hack-and-learn/issues/new?assignees=&labels=project%2C+open&template=project-proposal.md&title=%5BProject+proposal%5D+%3CName+of+the+project%3E) with a short project description to find other folks who'd be interested to work on it with you.  
-If you prefer to join an existing project, comment on the [open project issues](https://github.com/LukeMathWalker/rust-hack-and-learn/issues)!
+If you prefer to join an existing project, comment on the [open project issues](https://github.com/LukeMathWalker/rust-hack-and-learn/issues?q=is%3Aopen+is%3Aissue+label%3Aproject+label%3Aopen)!
 
 There is no definition of "the right project": the Hack & Learn is an occasion to tinker and explore.
 
