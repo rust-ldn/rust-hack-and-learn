@@ -1,6 +1,6 @@
 # Rust (Remote) Hack & Learn: Join Us!
 
-<div align="center"><a href="https://www.meetup.com/Rust-London-User-Group/" target="_blank"><img src="https://raw.githubusercontent.com/rust-ldn/rust-hack-and-learn/main/rust-london-header.png" /></a></div>
+<div align="center"><a href="https://www.meetup.com/Rust-London-User-Group/" target="_blank"><img src="https://raw.githubusercontent.com/rust-ldn/rust-hack-and-learn/main/rust-london-header.png" /></a></div><br />
 
 We are organizing a full day **remote** Hack & Learn on **February 27th 2021**, starting at 8:00 GMT (European/African timezone block)!
 
