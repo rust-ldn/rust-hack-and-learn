@@ -4,6 +4,8 @@
 
 We are organizing a full day **remote** Hack & Learn on **February 27th 2021**, starting at 8:00 GMT (European/African timezone block)!
 
+Meetup event: [link](https://www.meetup.com/it-IT/Rust-London-User-Group/events/276155381/)
+
 ## The backstory
 
 Good talks are only half of the appeal of a local meetup.
