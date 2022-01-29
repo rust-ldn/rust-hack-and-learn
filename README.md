@@ -38,7 +38,7 @@ In the same way, you can join the event even if you didn't sign up for a project
 
 ### The day of the event
 
-We'll provision a virtual space - each project will have its own voice channel and separate space to coordinate. You can use VSCode LiveShare, screen sharing or any other tool you fancy to collaborate on the code itself.
+We [provisioned a virtual space](https://app.wonder.me/?spaceId=84079fa7-d7cb-4768-95fd-3802d5fb4ed0) - each project will have its own voice channel and separate space to coordinate. You can use VSCode LiveShare, screen sharing or any other tool you fancy to collaborate on the code itself.
 
 There will be a team of moderators to make sure everything works out smoothly according to our Code of Conduct.
 
